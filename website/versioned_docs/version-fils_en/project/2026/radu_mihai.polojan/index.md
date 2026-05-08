@@ -61,6 +61,5 @@ Place your KiCAD or similar schematics here in SVG format.
 
 <!-- Add a few links that inspired you and that you think you will use for your project -->
 
-1. [link](https://www.youtube.com/watch?v=oWThq9rKjQw&t=284s)
-2. [link](https://example3.com)
-...
+1. [Rust documentation](https://youtu.be/oWThq9rKjQw?si=yXI7mbcZzjzmGdt4)
+2. [XIAO RP2040 as DebugProbe](https://community.element14.com/products/raspberry-pi/b/blog/posts/seeed-studio-xiao-rp2040-as-picoprobe)
