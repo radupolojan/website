@@ -38,7 +38,7 @@ The project uses the high-pin-count RP2350B, featuring 16MB FLASH and a 8MB PSRA
 ### Schematics
 ![Schematic](prm.webp)
 
-Place your KiCAD or similar schematics here in SVG format.
+![Kicad Schematic](kicad.webp)
 
 ### Bill of Materials
 
